@@ -1,14 +1,22 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import './Banner.css'
+import photo from '../../../Images/side.png';
+import './Banner.css';
 
 const Banner = () => {
     return (
-        <div className="home-header container-fluid text-center">
-            <h1 className="fw-bold">Always <span style={{ color: 'rgb(0, 255, 102)' }}>Something</span> New To <span style={{ color: 'rgb(0, 255, 102)' }}>Learn</span></h1>
-            <p>With courses added regularly to our catalog, you always get the latest skill.</p>
-            <br />
-            <Link to="/about"><button className="btn btn-regular">Learn More</button></Link>
+        <div className="home-header container-fluid d-flex lign-items-center">
+            <div className="left-side col-6 align-items-center">
+                <h1>Photography is an austere and blazing poetry of the real.</h1>
+                <p>Expert news, reviews and videos of the latest digital cameras, lenses, accessories, and phones. Get answers to your questions in our photography forums.</p>
+
+                <Link to="/about"><button className="btn-cls  btn-warning">PREVIEW</button></Link>
+
+               
+            </div>
+            <div className="right-side col-6 ">
+                <img src={photo} alt="" />
+            </div>
         </div>
     );
 };

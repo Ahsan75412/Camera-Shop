@@ -1,36 +1,30 @@
-import './Header.css';
 import React from 'react';
-import { NavLink } from 'react-router-dom';
+import { Container, Nav, Navbar } from 'react-bootstrap';
 import logo from '../../Images/logo.jpg';
 
 const Header = () => {
     return (
-        <header>
-            <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
-                <div className="container">
-                    <a className="navbar-brand text-light" href="./"><img src={logo} alt="" /></a>
-                    <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                        <span className="navbar-toggler-icon text-light"></span>
-                    </button>
-                    <div className="collapse navbar-collapse" id="navbarNav">
-                        <ul className="navbar-nav">
-                            <li className="nav-item">
-                                <NavLink to="/home" activeClassName="selected" className="nav-link text-light px-4">Home</NavLink>
-                            </li>
-                            <li className="nav-item">
-                                <NavLink to="/services" activeClassName="selected" className="nav-link text-light px-4">Services</NavLink>
-                            </li>
-                            <li className="nav-item">
-                                <NavLink to="/about" activeClassName="selected" className="nav-link text-light px-4">About</NavLink>
-                            </li>
-                            <li className="nav-item">
-                                <NavLink to="/contact" activeClassName="selected" className="nav-link text-light px-4">Contact</NavLink>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </nav>
-        </header>
+        <div>
+            <Navbar bg="light" expand="lg">
+                <Container fluid>
+                    <Navbar.Brand href="#"><img src={logo} alt="" /></Navbar.Brand>
+                    <Navbar.Toggle aria-controls="navbarScroll" />
+                    <Navbar.Collapse id="navbarScroll">
+                        <Nav
+                            className="me-auto my-2 my-lg-0 "
+                            style={{ maxHeight: '100px' }}
+                            navbarScroll
+                        >
+                            <Nav.Link to="/home">HOME</Nav.Link>
+                            <Nav.Link to="/reviews">REVIEWS</Nav.Link>
+                            <Nav.Link to="/dashboard">DASHBOARD</Nav.Link>
+                            <Nav.Link to="/blogs">BLOGS</Nav.Link>
+                            
+                        </Nav>
+                    </Navbar.Collapse>
+                </Container>
+            </Navbar>
+        </div>
     );
 };
 

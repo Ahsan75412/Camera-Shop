@@ -6,7 +6,7 @@
         "author": "Rob Percival",
         "rating": 4.5,
         "ratingCount": 139517,
-        "cover": "https://img-c.udemycdn.com/course/240x135/914296_3670_8.jpg",
+        "cover": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1649104584/Tesla-Cars/Camera/1DX_MARKIII_3Q_EF24-70mm_300x300_e85fep.png",
         "price": 199.99
     },
     {
@@ -16,7 +16,7 @@
         "author": "Kirill Eremenko",
         "rating": 4.5,
         "ratingCount": 151047,
-        "cover": "https://img-c.udemycdn.com/course/240x135/950390_270f_3.jpg",
+        "cover": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1649104582/Tesla-Cars/Camera/EOS_R5_2_300x300_ibrrkl.png",
         "price": 259.99
     },
     {
@@ -26,7 +26,7 @@
         "author": "Tim Buchalka",
         "rating": 4.6,
         "ratingCount": 148547,
-        "cover": "https://img-c.udemycdn.com/course/240x135/533682_c10c_4.jpg",
+        "cover": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1649104579/Tesla-Cars/Camera/EOSR_kit_300x300_c1szei.png",
         "price": 159.99
     },
     {
@@ -36,7 +36,7 @@
         "author": "Jaysen Batchelor",
         "rating": 4.6,
         "ratingCount": 109552,
-        "cover": "https://img-c.udemycdn.com/course/240x135/874012_c7f2_3.jpg",
+        "cover": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1649104576/Tesla-Cars/Camera/eos-ra-rf50mm-3q_300x300_qrvnar.png",
         "price": 129.99
     },
     {
@@ -46,7 +46,7 @@
         "author": "Lindsay Marsh",
         "rating": 4.7,
         "ratingCount": 75743,
-        "cover": "https://img-c.udemycdn.com/course/240x135/1643044_e281.jpg",
+        "cover": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1649104574/Tesla-Cars/Camera/HERO_EOS_R5C_RF24-70mmF2.8LISUSM_300x300_aulbbt.png",
         "price": 139.99
     },
     {
@@ -56,7 +56,7 @@
         "author": "Maximilian Schwarzmüller",
         "rating": 4.7,
         "ratingCount": 126780,
-        "cover": "https://img-c.udemycdn.com/course/240x135/1362070_b9a1_2.jpg",
+        "cover": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1649104572/Tesla-Cars/Camera/EOSRP_kit_300x300_l6se3w.png",
         "price": 189.99
     },
     {
@@ -66,7 +66,7 @@
         "author": "Maximilian Schwarzmüller",
         "rating": 4.7,
         "ratingCount": 87935,
-        "cover": "https://img-c.udemycdn.com/course/240x135/4015616_32a9_2.jpg",
+        "cover": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1649104572/Tesla-Cars/Camera/EOSRP_kit_300x300_l6se3w.png",
         "price": 149.99
     },
     {
@@ -76,7 +76,7 @@
         "author": "Ben Tristem",
         "rating": 4.8,
         "ratingCount": 90762,
-        "cover": "https://img-c.udemycdn.com/course/240x135/1110626_255b_2.jpg",
+        "cover": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1649104570/Tesla-Cars/Camera/eos-rebel-t7i-efs-18-55mm-is-stm-300x300_sretvz.png",
         "price": 199.99
     },
     {
@@ -86,7 +86,7 @@
         "author": "Imtiaz Ahmad",
         "rating": 4.6,
         "ratingCount": 74972,
-        "cover": "https://img-c.udemycdn.com/course/240x135/866196_be1d.jpg",
+        "cover": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1649104567/Tesla-Cars/Camera/EOST8i_FrontSlantLeft_EFS18_55mm_300x300_arcmwr.png",
         "price": 159.99
     },
     {
@@ -96,7 +96,7 @@
         "author": "Imtiaz Ahmad",
         "rating": 4.8,
         "ratingCount": 96293,
-        "cover": "https://img-c.udemycdn.com/course/240x135/1672410_9ff1_5.jpg",
+        "cover": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1649104567/Tesla-Cars/Camera/EOST8i_FrontSlantLeft_EFS18_55mm_300x300_arcmwr.png",
         "price": 189.99
     },
     {
@@ -106,7 +106,7 @@
         "author": "Rob Percival",
         "rating": 4.5,
         "ratingCount": 97243,
-        "cover": "https://img-c.udemycdn.com/course/240x135/1405812_931d_2.jpg",
+        "cover": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1649104564/Tesla-Cars/Camera/t7_3q_300x300_wlqs8n.gif",
         "price": 179.99
     },
     {
@@ -116,7 +116,7 @@
         "author": "Brad Traversy",
         "rating": 4.6,
         "ratingCount": 116927,
-        "cover": "https://img-c.udemycdn.com/course/240x135/1646980_23f7_2.jpg",
+        "cover": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1649104579/Tesla-Cars/Camera/EOSR_kit_300x300_c1szei.png",
         "price": 189.99
     }
 ]
