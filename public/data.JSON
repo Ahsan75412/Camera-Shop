@@ -7,6 +7,7 @@
         "rating": 4.5,
         "ratingCount": 139517,
         "cover": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1649104584/Tesla-Cars/Camera/1DX_MARKIII_3Q_EF24-70mm_300x300_e85fep.png",
+        "authorImg" : "https://res.cloudinary.com/dg5xbio2w/image/upload/v1649167506/Tesla-Cars/men/03_vybe0p.jpg ",
         "price": 199.99
     },
     {
@@ -17,6 +18,7 @@
         "rating": 4.5,
         "ratingCount": 151047,
         "cover": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1649104582/Tesla-Cars/Camera/EOS_R5_2_300x300_ibrrkl.png",
+        "authorImg" : "https://res.cloudinary.com/dg5xbio2w/image/upload/v1649167505/Tesla-Cars/men/04_qcqfqq.webp ",
         "price": 259.99
     },
     {
@@ -27,6 +29,7 @@
         "rating": 4.6,
         "ratingCount": 148547,
         "cover": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1649104579/Tesla-Cars/Camera/EOSR_kit_300x300_c1szei.png",
+        "authorImg" : "https://res.cloudinary.com/dg5xbio2w/image/upload/v1649167505/Tesla-Cars/men/02_btfhgq.jpg ",
         "price": 159.99
     },
     {
@@ -37,6 +40,7 @@
         "rating": 4.6,
         "ratingCount": 109552,
         "cover": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1649104576/Tesla-Cars/Camera/eos-ra-rf50mm-3q_300x300_qrvnar.png",
+        "authorImg" : "https://res.cloudinary.com/dg5xbio2w/image/upload/v1649167505/Tesla-Cars/men/01_hxnzcp.jpg ",
         "price": 129.99
     },
     {
@@ -47,16 +51,18 @@
         "rating": 4.7,
         "ratingCount": 75743,
         "cover": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1649104574/Tesla-Cars/Camera/HERO_EOS_R5C_RF24-70mmF2.8LISUSM_300x300_aulbbt.png",
+        "authorImg" : "https://res.cloudinary.com/dg5xbio2w/image/upload/v1649167505/Tesla-Cars/men/05_dzpfkt.jpg ",
         "price": 139.99
     },
     {
         "id": 1006,
         "title": "EOS Rebel T5i 18-55mm IS STM Lens Kit",
-        "description": "Photo enthusiasts rejoice! The new flagship of the spectacular Rebel Line, the EOS Rebel T5i, is here to renew your artistic side with amazing imaging features and full-featured functionality.",
+        "description": "authorImg enthusiasts rejoice! The new flagship of the spectacular Rebel Line, the EOS Rebel T5i, is here to renew your artistic side with amazing imaging features and full-featured functionality.",
         "author": "Maximilian Schwarzmüller",
         "rating": 4.7,
         "ratingCount": 126780,
         "cover": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1649104572/Tesla-Cars/Camera/EOSRP_kit_300x300_l6se3w.png",
+        "authorImg" : "https://res.cloudinary.com/dg5xbio2w/image/upload/v1649167506/Tesla-Cars/men/03_vybe0p.jpg ",
         "price": 189.99
     },
     {
@@ -67,6 +73,7 @@
         "rating": 4.7,
         "ratingCount": 87935,
         "cover": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1649104572/Tesla-Cars/Camera/EOSRP_kit_300x300_l6se3w.png",
+        "authorImg" : "https://res.cloudinary.com/dg5xbio2w/image/upload/v1649167505/Tesla-Cars/men/04_qcqfqq.webp ",
         "price": 149.99
     },
     {
@@ -77,6 +84,7 @@
         "rating": 4.8,
         "ratingCount": 90762,
         "cover": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1649104570/Tesla-Cars/Camera/eos-rebel-t7i-efs-18-55mm-is-stm-300x300_sretvz.png",
+        "authorImg" : " https://res.cloudinary.com/dg5xbio2w/image/upload/v1649167505/Tesla-Cars/men/05_dzpfkt.jpg",
         "price": 199.99
     },
     {
@@ -87,6 +95,7 @@
         "rating": 4.6,
         "ratingCount": 74972,
         "cover": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1649104567/Tesla-Cars/Camera/EOST8i_FrontSlantLeft_EFS18_55mm_300x300_arcmwr.png",
+        "authorImg" : "https://res.cloudinary.com/dg5xbio2w/image/upload/v1649167505/Tesla-Cars/men/01_hxnzcp.jpg ",
         "price": 159.99
     },
     {
@@ -97,6 +106,7 @@
         "rating": 4.8,
         "ratingCount": 96293,
         "cover": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1649104567/Tesla-Cars/Camera/EOST8i_FrontSlantLeft_EFS18_55mm_300x300_arcmwr.png",
+        "authorImg" : "https://res.cloudinary.com/dg5xbio2w/image/upload/v1649167505/Tesla-Cars/men/02_btfhgq.jpg ",
         "price": 189.99
     },
     {
@@ -107,6 +117,7 @@
         "rating": 4.5,
         "ratingCount": 97243,
         "cover": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1649104564/Tesla-Cars/Camera/t7_3q_300x300_wlqs8n.gif",
+        "authorImg" : "https://res.cloudinary.com/dg5xbio2w/image/upload/v1649167506/Tesla-Cars/men/03_vybe0p.jpg ",
         "price": 179.99
     },
     {
@@ -117,6 +128,7 @@
         "rating": 4.6,
         "ratingCount": 116927,
         "cover": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1649104579/Tesla-Cars/Camera/EOSR_kit_300x300_c1szei.png",
+        "authorImg" : "https://res.cloudinary.com/dg5xbio2w/image/upload/v1649167505/Tesla-Cars/men/05_dzpfkt.jpg ",
         "price": 189.99
     }
 ]

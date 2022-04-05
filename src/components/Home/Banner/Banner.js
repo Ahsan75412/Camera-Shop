@@ -10,7 +10,7 @@ const Banner = () => {
                 <h1>Photography is an austere and blazing poetry of the real.</h1>
                 <p className='pt-3'>Expert news, reviews and videos of the latest digital cameras, lenses, accessories, and phones. Get answers to your questions in our photography forums The Canon RF 14-35mm f4L IS USM is a compact, ultra wide zoom for the EOS R mirrorless system. It’s the widest lens in the RF system to date. Find out if it's the best wide lens for you in my full review!.</p>
 
-                <Link to="/about"><button className="btn-cls  btn-warning mt-5">PREVIEW</button></Link>
+                <Link to="/reviews"><button className="btn-cls  btn-warning mt-5">PREVIEW</button></Link>
 
                
             </div>

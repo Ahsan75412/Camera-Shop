@@ -3,7 +3,7 @@ import { Link, useLocation } from 'react-router-dom';
 import useReview from '../../../hooks/useReview';
 import Reviews from '../Reviews/Reviews';
 
-const Review = () => {
+const Review = ({ children }) => {
     const [reviews] = useReview();
     const { pathname } = useLocation();
 
@@ -16,7 +16,9 @@ const Review = () => {
                     pathname === "/reviews" ? (
                         reviews.map(review => (
 
-                            <Reviews key={reviews.id} review={review} />
+                            <Reviews key={review.id} review={review}>
+                                <h3 className="mt-2 mb-0 fw-bold">Price : <span className="fw-bold">${review.price}</span></h3>
+                            </Reviews>
                         ))
                     ) : (
                         reviews.slice(0, 3).map(review => (
@@ -26,7 +28,7 @@ const Review = () => {
                     )
                 }
             </div>
-            <Link to="/reviews"><button className="btn btn-warning">See More</button></Link>
+            {children}
         </div>
     );
 };
