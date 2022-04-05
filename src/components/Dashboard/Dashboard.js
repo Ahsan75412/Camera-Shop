@@ -24,7 +24,7 @@ const Dashboard = () => {
 
      return (
         <>
-        <AreaChart className='p-5'
+        <AreaChart className="m-5 border"
             width={500}
             height={400}
             data={chart}
@@ -36,10 +36,10 @@ const Dashboard = () => {
             }}
         >
             <CartesianGrid strokeDasharray="3 3" />
-            <XAxis dataKey="month" />
+            <XAxis dataKey="name" />
             <YAxis />
             <Tooltip />
-            <Area
+            <Area 
                 type="monotone"
                 dataKey={"investment"}
                 stackId="1"
@@ -58,8 +58,8 @@ const Dashboard = () => {
 
 
    
-        <PieChart width={400} height={400}>
-            <Pie className='p-5'
+        <PieChart width={400} height={400} className="m-5 border">
+            <Pie 
                 data={chart}
                 dataKey={"investment"}
                 cx="50%"
