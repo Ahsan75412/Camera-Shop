@@ -9,7 +9,7 @@ const Review = ({ children }) => {
 
     return (
         <div className="home-featured container text-center p-5">
-            <h2>Customar Review</h2>
+            <h2>Customar <span className='text-success'>Review</span> </h2>
 
             <div className="featured-container text-start row row-cols-1 row-cols-md-2 row-cols-lg-3 my-4 g-4">
                 {
